@@ -39,7 +39,7 @@ class Draw_character():
                     elif event.key == pygame.K_SPACE:
                         while bullet.right < screen_rect.right:
                             bullet.x += 10
-                            time.sleep(.2)
+                            time.sleep(.02)
                             pygame.draw.rect(screen, color, bullet)
                             pygame.display.flip()
                             screen.fill((255,255,255))

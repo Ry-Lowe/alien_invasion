@@ -4,15 +4,10 @@
     <list default="true" id="64eac8ae-7ee6-4688-acc8-068c0b26043c" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Alien Invasion Part 1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Alien Invasion Part 1.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homework/Blue Sky.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homework/Game Character.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homework/Rocket.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homework/keys.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homework/snips/bluesky.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homework/snips/character.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homework/snips/keys.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homework/snips/rocket.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homework/sprout.bmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chpt12Homework/sidewaysshooter.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chpt12Homework/sidewaysshooter.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/game.py" beforeDir="false" afterPath="$PROJECT_DIR$/game.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ship.py" beforeDir="false" afterPath="$PROJECT_DIR$/ship.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
