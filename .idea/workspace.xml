@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="64eac8ae-7ee6-4688-acc8-068c0b26043c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/alien.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/game_stats.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Alien Invasion Part 1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Alien Invasion Part 1.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chpt12Homework/sidewaysshooter.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chpt12Homework/sidewaysshooter.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/game.py" beforeDir="false" afterPath="$PROJECT_DIR$/game.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/settings.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ship.py" beforeDir="false" afterPath="$PROJECT_DIR$/ship.py" afterDir="false" />
@@ -39,7 +39,7 @@
     &quot;last_opened_file_path&quot;: &quot;C:/Users/m253768/Desktop/EW200/Labs/Lab7/alien_invasion&quot;
   }
 }</component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.game">
     <configuration name="game" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="alien_invasion" />
       <option name="INTERPRETER_OPTIONS" value="" />
