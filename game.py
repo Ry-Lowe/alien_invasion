@@ -20,12 +20,14 @@ class AlienInvasion:
         self._create_fleet()
     def run_game(self):
         while True:
+            clock = pygame.time.Clock()
             self._check_events()
             if self.stats.game_active:
                 self._update_bullets()
                 self.ship.update()
                 self._update_aliens()
             self._update_screen()
+            clock.tick(60)
     def _check_events(self):
         for event in pygame.event.get():
             if event.type == pygame.QUIT:
