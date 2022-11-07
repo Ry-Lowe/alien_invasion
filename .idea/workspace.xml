@@ -2,13 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="64eac8ae-7ee6-4688-acc8-068c0b26043c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Chpt13Homework/betterstars.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chpt13Homework/raindrops.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chpt13Homework/sidewaysshooter2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chpt13Homework/stars.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chpt13Homework/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chpt13Homework/kill.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chpt13Homework/sidewaysshooter3.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Chpt13Homework/Alien Invasion Part 2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Chpt13Homework/Alien Invasion Part 2.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chpt13Homework/sidewaysshooter2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chpt13Homework/sidewaysshooter2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,13 +31,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/m253768/Desktop/EW200/Labs/Lab7/pirate demo"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/m253768/Desktop/EW200/Labs/Lab7/alien_invasion&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="game" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="alien_invasion" />
